@@ -9,6 +9,8 @@ The Python Calculator is built to include the following features:
 - Basic Arithmetic Operations: The calculator can perform addition, subtraction, multiplication, and division.
 - User Interface: A graphical user interface (GUI) for the calculator is developed using the Tkinter library, providing buttons for numbers, operators, and additional functionalities.
 - Error Handling: It includes basic error handling to manage invalid inputs and divide-by-zero errors.
+  ![Screenshot 2024-05-21 223943](https://github.com/Ayan5204/Python-Calculator/assets/159412268/4bee0ee1-8bfc-478f-bdd7-2492de6efdf0)
+
 
 
 **Tools and Libraries Used**
@@ -32,6 +34,8 @@ The Python Calculator includes the following functionalities:
 2. User Interface Components:
    - Display Screen: Shows the current input and result.
    - Buttons: Number buttons (0-9), operator buttons (+, -, ×, ÷)
+    ![Screenshot 2024-05-21 223933](https://github.com/Ayan5204/Python-Calculator/assets/159412268/cd08f5aa-bfc5-4162-920a-8ed0bc6774e8)
+
 
 **Implementation Details**
 
